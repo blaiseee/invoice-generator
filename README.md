@@ -29,3 +29,31 @@ pip install fpdf
 Run the script and follow the prompts to input your invoice data:
 ```bash
 python main.py
+```
+
+You'll be asked to enter:
+- Service description
+- Amount (in PHP)
+- Type done to finish input
+
+A PDF and HTML invoice will be generated in the same directory.
+
+🖥 Example Output
+```bash
+Invoice Number: EC-20250429_151230
+Invoice Date  : April 29, 2025
+Services:
+ - Design (25%)       ₱10,000.00
+ - Development (25%)  ₱10,000.00
+Total:                ₱20,000.00
+```
+
+📂 Output Files
+- invoice_blaise.pdf – the main PDF invoice
+
+🧑‍💻 Author
+Blaise A. Florendo
+📧 blsflorendo@gmail.com / mynameisblaiseflorendo@gmail.com
+
+📃 License
+This project is open source and available under the MIT License.
