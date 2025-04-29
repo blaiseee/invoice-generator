@@ -52,7 +52,7 @@ Total:                ₱20,000.00
 - invoice_blaise.pdf – the main PDF invoice
 
 🧑‍💻 Author
-Blaise A. Florendo
+Blaise A. Florendo<br>
 📧 blsflorendo@gmail.com / mynameisblaiseflorendo@gmail.com
 
 📃 License
