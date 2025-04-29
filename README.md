@@ -55,5 +55,5 @@ Total:                ₱20,000.00
 Blaise A. Florendo<br>
 📧 blsflorendo@gmail.com / mynameisblaiseflorendo@gmail.com
 
-📃 License
+## 📃 License
 This project is open source and available under the MIT License.
