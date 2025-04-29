@@ -36,7 +36,7 @@ You'll be asked to enter:
 - Amount (in PHP)
 - Type done to finish input
 
-A PDF and HTML invoice will be generated in the same directory.
+A PDF invoice will be generated in the same directory.
 
 ## 🖥 Example Output
 ```bash
