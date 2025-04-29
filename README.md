@@ -38,7 +38,7 @@ You'll be asked to enter:
 
 A PDF and HTML invoice will be generated in the same directory.
 
-🖥 Example Output
+## 🖥 Example Output
 ```bash
 Invoice Number: EC-20250429_151230
 Invoice Date  : April 29, 2025
@@ -48,10 +48,10 @@ Services:
 Total:                ₱20,000.00
 ```
 
-📂 Output Files
+## 📂 Output Files
 - invoice_blaise.pdf – the main PDF invoice
 
-🧑‍💻 Author
+## 🧑‍💻 Author<br>
 Blaise A. Florendo<br>
 📧 blsflorendo@gmail.com / mynameisblaiseflorendo@gmail.com
 
