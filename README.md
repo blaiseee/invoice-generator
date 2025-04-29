@@ -28,4 +28,4 @@ pip install fpdf
 
 Run the script and follow the prompts to input your invoice data:
 ```bash
-python invoice_generator.py
+python main.py
