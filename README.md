@@ -1,12 +1,12 @@
 # 🧾 Python Invoice Generator
 
-A simple Python script to generate PDF and HTML invoices using user-defined service details. Built with `FPDF` and `datetime`, this tool is perfect for freelancers, contractors, and small business owners who want quick and customizable invoice creation.
+A simple Python script to generate PDF invoices using user-defined service details. Built with `FPDF` and `datetime`, this tool is perfect for freelancers, contractors, and small business owners who want quick and customizable invoice creation.
 
 ## 📦 Features
 
 - Dynamic input for services (description + amount)
 - Auto-generated invoice number and date
-- Professional PDF and HTML output
+- Professional PDF output
 - Local saving of generated files
 - Philippine Peso (₱) currency formatting
 - Editable sender/client information
